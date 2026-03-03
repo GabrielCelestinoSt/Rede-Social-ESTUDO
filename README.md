@@ -1,3 +1,3 @@
 # Rede-Social-ESTUDO
 
-Desenvolvimento de um feed inicial de uma rede social utilizando Python e Banco de Dados SQLAlchemy
+Modificação do Projeto Base "Rede-Social-Senai" com a adição de novas features. Desenvolvido em Python com Banco de Dados SQLAlchemy
